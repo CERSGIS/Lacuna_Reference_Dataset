@@ -1,4 +1,4 @@
-# LACUNA REFERENCE DATASET
+# REFERENCE DATA COLLECTION FOR IMPROVING LAND USE CHANGE MAPPING IN GHANA
 This repository hosts reference datasets developed by **CERSGIS** with support from the **Lacuna Fund, GIZ, WRI,** and other local partners. This was necessary to address critical gaps in monitoring deforestation drivers like cocoa farming and illegal gold mining (Galamsey) across six (6) regions and 15 districts in the southern zone of Ghana.
 The project provides open, high-quality geospatial reference data to support land use and land cover (LULC) mapping, climate monitoring, sustainable agriculture, and forest conservation, especially within the cocoa-forest mosaic landscape.
 
