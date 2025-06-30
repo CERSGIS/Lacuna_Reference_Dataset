@@ -14,7 +14,7 @@ The project provides open, high-quality geospatial reference data to support lan
 The project employed a three-phase approach:
 
 1. Training and Capacity Building
-   - CERSGIS, in collaboration with SERVIR and World Resources Institute, conducted a training-of-trainers workshop.
+   - CERSGIS, in collaboration with SERVIR and WRI, conducted a training-of-trainers workshop.
    - 30+ university students and local youth were trained in satellite image interpretation and field data collection.
    - Tools used included Collect Earth Online, Ground App, and GPS-based field mapping.
   
